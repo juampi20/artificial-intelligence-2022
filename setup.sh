@@ -1,6 +1,3 @@
-# Create "datasets" directory
-mkdir -p "datasets/"
-
 # Some instructions for setup an enviroment on python:
 # 1. Create an virtual enviroment: 
 python3 -m virtualenv venv
